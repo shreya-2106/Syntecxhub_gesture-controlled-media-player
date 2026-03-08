@@ -23,7 +23,7 @@ The webcam captures real-time video, and MediaPipe tracks hand landmarks to dete
 
 ## How to Run
 1.Clone the repository:
-git clone https://github.com/<your-username>/gesture-controlled-media-player.git
+git clone https://github.com/<your-username>/gesture-controlled-media-player.git 
 cd gesture-controlled-media-player
 
 2.Create a virtual environment:
