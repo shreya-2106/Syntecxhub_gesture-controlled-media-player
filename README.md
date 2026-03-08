@@ -4,7 +4,7 @@ This project uses MediaPipe for hand tracking, OpenCV for webcam video feed, and
 
 
 ## Features
-- Play / Pause: Fist (✊) gesture  
+- Play / Pause: Fist (✊) gesture   
 - Volume Up: One finger (☝️) gesture  
 - Volume Down: Two fingers (✌️) gesture  
 - Pause / Space: Open palm (✋) gesture  
