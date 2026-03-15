@@ -1,6 +1,6 @@
 ## gesture controlled media player
 A Python project that allows you to control your media player (music or video) using hand gestures via your webcam. No keyboard or mouse is required. 
-This project uses MediaPipe for hand tracking, OpenCV for webcam video feed, and PyAutoGUI to simulate media key presses.
+This project uses MediaPipe for hand tracking, OpenCV for webcam video feed, and PyAutoGUI to simulate media key presses. 
 
 
 ## Features
